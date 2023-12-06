@@ -62,7 +62,7 @@ onMounted(() => {
           type="text"
           name="content"
           id="content"
-          placeholder="Check up on grandma"
+          placeholder="Check up on grandpa"
           v-model="input_content"
         />
 
